@@ -1,0 +1,26 @@
+html {
+  overflow-x: hidden !important;
+}
+.footer-main {
+  position: fixed;
+  bottom: 0px;
+  width: 82%;
+  left: 16.9%;
+  color: white !important;
+  background-color: #262b40;
+  z-index: 9999;
+}
+.footer-main a {
+  color: white !important;
+}
+.mohit {
+  right: 10% !important;
+}
+.input-group {
+  border-right: 5px solid !important;
+}
+.card-body {
+  flex: 1 1 auto;
+  padding: 1.25rem 1.5rem;
+  border-right: 8px solid !important;
+}
